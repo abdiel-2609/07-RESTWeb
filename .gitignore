@@ -2,3 +2,4 @@ node_modules/
 keys/
 .vscode/
 .env
+.env.test
